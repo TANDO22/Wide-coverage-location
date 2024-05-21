@@ -29,15 +29,35 @@ button {
 }
 
 img {
-    width: 533.83px;
-    height: 466.9px;
+    width: 600px;
+    height: 500px;
     display: inline-block;
-    margin-top: 246px;
+    margin-top: 170px;
     margin-left: 60px;
 }
 
 .div-textos {
     display: inline-block;
     position: relative;
-    bottom: 200px;
+    bottom: 100px;
+    left: 250px;
+}
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    width: 582px;
+    height: 164px;
+}
+
+p {
+    color: #4B505A;
+    width: 493px;
+    height: 99px;
+    margin-top: 50px;
+}
+
+.link-div {
+    color: #6FBF44;
+    font-size: 18px;
 }
