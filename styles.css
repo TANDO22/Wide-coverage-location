@@ -60,4 +60,5 @@ p {
 .link-div {
     color: #6FBF44;
     font-size: 18px;
+    cursor: pointer;
 }
