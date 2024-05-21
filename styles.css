@@ -2,4 +2,42 @@
     padding: 0;
     border: 0;
     box-sizing: border-box;
+    font-family: poppins, 'sans-serif';
+}
+
+.header-links {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.links-da-div {
+    margin-left: 20px;
+    color: #17233D;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button {
+    margin-left: 20px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background: #6FBF44;
+    width: 124px;
+    height: 54px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+img {
+    width: 533.83px;
+    height: 466.9px;
+    display: inline-block;
+    margin-top: 246px;
+    margin-left: 60px;
+}
+
+.div-textos {
+    display: inline-block;
+    position: relative;
+    bottom: 200px;
 }
