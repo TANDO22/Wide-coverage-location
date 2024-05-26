@@ -8,6 +8,8 @@
 <br>
 utilizei as seguintes tecnologias:
 - HTML
+<br>
+<br>
 -CSS
 <br>
 <br>
